@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="{{url_for('static',filename='css/main.css')}}" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plagiarism Detection</title>
+</head>
+
+<body>
+    <div class="container mx-auto h-screen w-screen py-8">
+        <h1 class="text-center text-2xl sm:text-3xl">Detect plagiarism using CNN</h1>
+
+        <form class="space-y-4 w-11/12 lg:w-2/3 mt-14 xl:w-1/2 mx-auto" method="post">
+            <div>
+                <label for="source_text" class="font-medium">Source Text:</label>
+                <textarea
+                    class="w-full rounded-md border border-teal-300 p-2.5 shadow-sm outline-none focus:border-teal-300 focus:ring focus:ring-teal-200 focus:ring-opacity-50 disabled:bg-gray-300"
+                    id="source_text" name="source_text" rows="4" cols="50"></textarea>
+            </div>
+
+            <div>
+                <label for="suspicious_text" class="font-medium">Suspicious Text:</label>
+                <textarea
+                    class="w-full rounded-md border border-teal-300 p-2.5 shadow-sm outline-none focus:border focus:border-teal-300 focus:ring focus:ring-teal-200 focus:ring-opacity-50 disabled:bg-gray-300"
+                    id="suspicious_text" name="suspicious_text" rows="4" cols="50"></textarea>
+            </div>
+            <div class="flex justify-between items-center">
+
+                <button
+                    class="rounded-lg bg-teal-500 text-lg px-3 py-1 text-white transition-all duration-200 ease-in-out hover:bg-teal-400"
+                    type="submit">Detect Plagiarism</button>
+                {% if result %}
+                <p class="text-lg font-semibold">{{ result }}</p>
+                {% endif %}
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

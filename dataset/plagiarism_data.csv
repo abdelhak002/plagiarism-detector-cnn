@@ -1,0 +1,155 @@
+source,suspicious,label
+"This is a sample source text.","This is a sample suspicious text.",0
+"The quick brown fox jumps over the lazy dog.","A fast brown fox jumps over a lazy dog.",1
+"Python is a popular programming language.","Programming in Python is widely used.",0
+"Machine learning involves training models on data.","Data training is part of machine learning.",1
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",0
+"The Earth orbits the Sun in a year.","One revolution around the Sun takes one year.",1
+"Artificial intelligence is reshaping industries.","Industries are being transformed by artificial intelligence.",1
+"Roses are red, violets are blue.","Violets are blue, roses are red.",0
+"Global warming is a major environmental concern.","The environment is affected by global warming.",1
+"The Mona Lisa is a famous painting by Leonardo da Vinci.","Leonardo da Vinci painted the Mona Lisa.",1
+"Java is an object-oriented programming language.","Object-oriented programming is used in Java.",1
+"Albert Einstein formulated the theory of relativity.","The theory of relativity was developed by Albert Einstein.",1
+"The Eiffel Tower is located in Paris, France.","Paris, France is home to the Eiffel Tower.",1
+"The population of China is over a billion people.","China has a population of more than one billion.",1
+"Water boils at 100 degrees Celsius at sea level.","At sea level, water boils when it reaches 100 degrees Celsius.",1
+"The Great Wall of China is a world wonder.","A wonder of the world is the Great Wall of China.",1
+"Shakespeare wrote famous plays and sonnets.","Famous plays and sonnets were written by Shakespeare.",1
+"Photosynthesis is the process by which plants make food.","Plants make food through the process of photosynthesis.",1
+"The Pacific Ocean is the largest ocean on Earth.","The largest ocean on Earth is the Pacific Ocean.",1
+"Beethoven composed Symphony No. 9.","Symphony No. 9 was composed by Beethoven.",1
+"Mount Everest is the highest peak in the world.","The highest peak in the world is Mount Everest.",1
+"Amazon is a leading e-commerce company.","A leading e-commerce company is Amazon.",1
+"The moon influences ocean tides.","Ocean tides are influenced by the moon.",1
+"The Sahara Desert is the largest hot desert.","The largest hot desert is the Sahara Desert.",1
+"Cats are domesticated animals.","Domesticated animals include cats.",1
+"The Internet was developed in the 20th century.","In the 20th century, the Internet was developed.",1
+"William Shakespeare was born in the 16th century.","Born in the 16th century was William Shakespeare.",1
+"The human body has 206 bones.","There are 206 bones in the human body.",1
+"A computer virus can corrupt files.","File corruption can be caused by a computer virus.",1
+"The Statue of Liberty is a symbol of freedom.","A symbol of freedom is the Statue of Liberty.",1
+"The Nile River is the longest river in Africa.","The longest river in Africa is the Nile River.",1
+"The Mona Lisa is displayed in the Louvre Museum.","Displayed in the Louvre Museum is the Mona Lisa.",1
+"Venice is known for its canals and gondolas.","Known for its canals and gondolas is Venice.",1
+"Alexander Graham Bell invented the telephone.","The telephone was invented by Alexander Graham Bell.",1
+"Hurricanes are powerful tropical storms.","Powerful tropical storms are hurricanes.",1
+"Mount Kilimanjaro is the highest mountain in Africa.","The highest mountain in Africa is Mount Kilimanjaro.",1
+"The Wright brothers invented the airplane.","The airplane was invented by the Wright brothers.",1
+"The Great Barrier Reef is the largest coral reef.","The largest coral reef is the Great Barrier Reef.",1
+"The human heart pumps blood throughout the body.","Blood is pumped throughout the body by the human heart.",1
+"The Olympic Games are held every four years.","Held every four years are the Olympic Games.",1
+"The United States Declaration of Independence was signed in 1776.","Signed in 1776 was the United States Declaration of Independence.",1
+"Pandas primarily eat bamboo.","Bamboo is the primary food source for pandas.",1
+"William Shakespeare's plays are still performed today.","Plays by William Shakespeare continue to be performed today.",1
+"The Earth has one natural satellite, the Moon.","The Moon is the Earth's only natural satellite.",1
+"Photosynthesis converts sunlight into energy for plants.","Energy for plants is produced through photosynthesis by converting sunlight.",1
+"This is a new example of a source text.","A new example of a suspicious text.",0
+"The fox is brown and jumps over a dog.","A brown fox jumps over a sleeping dog.",0
+"Programming languages are used in software development.","In software development, programming languages are utilized.",0
+"Data analysis involves extracting insights from data.","Insights are extracted from data through the process of data analysis.",0
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",0
+"The Sun is the center of our solar system.","Our solar system has the Sun at its center.",0
+"Robots are used in manufacturing processes.","Manufacturing processes use robots for automation.",0
+"Apples are a type of fruit.","Fruits include apples.",0
+"The rainforest is home to diverse ecosystems.","Diverse ecosystems can be found in the rainforest.",0
+"Leonardo da Vinci painted the Mona Lisa.","The Mona Lisa was painted by Leonardo da Vinci.",0
+"The Sun rises in the east.","The east is where the Sun rises.",0
+"Programming languages evolve over time.","Over time, programming languages undergo evolution.",0
+"Data science is a multidisciplinary field.","A multidisciplinary field is data science.",0
+"The ocean is home to various marine species.","Various marine species inhabit the ocean.",0
+"The invention of the wheel revolutionized transportation.","Transportation was revolutionized by the invention of the wheel.",0
+"Dogs are loyal companions to humans.","Humans have loyal companions in dogs.",0
+"The internet connects people around the world.","People around the world are connected by the internet.",0
+"The concept of time is fundamental to human existence.","Human existence is fundamentally linked to the concept of time.",0
+"Artificial intelligence is advancing rapidly.","Rapid advancement characterizes artificial intelligence.",0
+"The scientific method is used to conduct experiments.","Conducting experiments involves using the scientific method.",0
+"Renewable energy sources are essential for a sustainable future.","A sustainable future relies on essential renewable energy sources.",0
+"The Hubble Space Telescope captures stunning images of the universe.","Stunning images of the universe are captured by the Hubble Space Telescope.",0
+"Cloud computing facilitates scalable and flexible IT solutions.","Scalable and flexible IT solutions are facilitated by cloud computing.",0
+"Biodiversity is crucial for maintaining ecological balance.","Maintaining ecological balance is crucial for biodiversity.",0
+"The concept of democracy dates back to ancient Greece.","Ancient Greece is where the concept of democracy originated.",0
+"The process of evolution is driven by natural selection.","Natural selection drives the process of evolution.",0
+"Social media platforms connect people globally.","Connecting people globally is the role of social media platforms.",0
+"The human brain is a complex organ.","A complex organ in the human body is the brain.",0
+"Quantum mechanics describes the behavior of particles at the atomic level.","The behavior of particles at the atomic level is described by quantum mechanics.",0
+"Sustainable agriculture practices protect the environment.","Protecting the environment is achieved through sustainable agriculture practices.",0
+"The concept of zero is fundamental to mathematics.","Mathematics relies on the fundamental concept of zero.",0
+"Wind energy is harnessed to generate electricity.","Generating electricity involves harnessing wind energy.",0
+"The Renaissance period was a time of cultural rebirth.","Cultural rebirth characterized the Renaissance period.",0
+"The concept of justice is explored in philosophical discourse.","Philosophical discourse explores the concept of justice.",0
+"The human respiratory system facilitates breathing.","Breathing is facilitated by the human respiratory system.",0
+"Nanotechnology enables the manipulation of matter at the nanoscale.","Manipulating matter at the nanoscale is enabled by nanotechnology.",0
+"The concept of supply and demand governs market economies.","Market economies are governed by the concept of supply and demand.",0
+"The development of antibiotics revolutionized medicine.","Medicine was revolutionized by the development of antibiotics.",0
+"Human rights are fundamental to the dignity of individuals.","The dignity of individuals is fundamental to human rights.",0
+"The concept of entropy is central to thermodynamics.","Thermodynamics relies on the central concept of entropy.",0
+"Solar panels convert sunlight into electricity.","Converting sunlight into electricity is achieved by solar panels.",0
+"The concept of black holes is explored in astrophysics.","Astrophysics explores the concept of black holes.",0
+"The development of the printing press revolutionized communication.","Communication was revolutionized by the development of the printing press.",0
+"The human immune system protects against infections.","Protection against infections is provided by the human immune system.",0
+"The concept of democracy is based on the principles of equality and representation.","Equality and representation are principles underlying the concept of democracy.",0
+"Nuclear energy is harnessed for electricity generation.","Electricity generation involves harnessing nuclear energy.",0
+"The process of globalization connects economies and cultures worldwide.","Connecting economies and cultures worldwide is the process of globalization.",0
+"The human digestive system breaks down food for nutrient absorption.","Nutrient absorption is facilitated by breaking down food in the human digestive system.",0
+"The concept of time dilation is explored in the theory of relativity.","The theory of relativity explores the concept of time dilation.",0
+"Geothermal energy is harnessed from the Earth's internal heat.","Harnessing Earth's internal heat is involved in geothermal energy.",0
+"The periodic table organizes elements based on their properties.","Organizing elements based on properties is the role of the periodic table.",0
+"The concept of nature versus nurture is debated in psychology.","Psychology debates the concept of nature versus nurture.",0
+"The human endocrine system regulates hormone production.","Regulating hormone production is the role of the human endocrine system.",0
+"The concept of dark matter is a mystery in astrophysics.","Astrophysics considers dark matter as a mystery.",0
+"The evolution of species is driven by genetic variation.","Genetic variation drives the evolution of species.",0
+"The concept of supply chain management is crucial for efficient logistics.","Efficient logistics relies on the crucial concept of supply chain management.",0
+"The process of meiosis is involved in sexual reproduction.","Sexual reproduction involves the process of meiosis.",0
+"The concept of cognitive dissonance is explored in psychology.","Psychology explores the concept of cognitive dissonance.",0
+"The human muscular system enables movement and stability.","Movement and stability are enabled by the human muscular system.",0
+"The concept of inflation is a key factor in macroeconomics.","Macroeconomics considers inflation as a key factor.",0
+"Wind turbines convert wind energy into electricity.","Converting wind energy into electricity is achieved by wind turbines.",0
+"The concept of climate change is a major environmental concern.","A major environmental concern is the concept of climate change.",0
+"The human visual system processes information from the eyes.","Processing information from the eyes is performed by the human visual system.",0
+"The concept of string theory is explored in theoretical physics.","Theoretical physics explores the concept of string theory.",0
+"The process of urbanization involves the growth of cities.","The growth of cities is involved in the process of urbanization.",0
+"The human nervous system transmits signals between the brain and body.","Transmitting signals between the brain and body is the role of the human nervous system.",0
+"The concept of plate tectonics explains the movement of Earth's lithosphere.","Explaining the movement of Earth's lithosphere is the concept of plate tectonics.",0
+"The industrial revolution transformed manufacturing processes.","Manufacturing processes were transformed by the industrial revolution.",0
+"The concept of biodiversity conservation is essential for ecological balance.","Ecological balance relies on the essential concept of biodiversity conservation.",0
+"The process of photosynthesis is fundamental for plant growth.","Fundamental for plant growth is the process of photosynthesis.",0
+"The human skeletal system provides structure and support.","Structure and support are provided by the human skeletal system.",0
+"The concept of quantum entanglement is a phenomenon in quantum mechanics.","A phenomenon in quantum mechanics is the concept of quantum entanglement.",0
+"The process of cellular respiration generates energy for cells.","Cells generate energy through the process of cellular respiration.",0
+"The concept of artificial intelligence dates back to ancient history.","Ancient history includes the concept of artificial intelligence.",0
+"The human reproductive system is responsible for producing offspring.","Producing offspring is the responsibility of the human reproductive system.",0
+"The concept of cognitive development is studied in psychology.","Psychology studies the concept of cognitive development.",0
+"The process of fermentation is used in the production of certain foods.","Producing certain foods involves the process of fermentation.",0
+"The concept of gravity explains the attraction between objects with mass.","Attraction between objects with mass is explained by the concept of gravity.",0
+"The human circulatory system transports blood throughout the body.","Transporting blood throughout the body is the role of the human circulatory system.",0
+"The concept of artificial neural networks is integral to machine learning.","Integral to machine learning is the concept of artificial neural networks.",0
+"The process of pollination is crucial for plant reproduction.","Plant reproduction relies on the crucial process of pollination.",0
+"The concept of corporate social responsibility is important in business ethics.","Business ethics emphasizes the importance of corporate social responsibility.",0
+"The human endocrine system regulates hormone production.","Regulating hormone production is the role of the human endocrine system.",0
+"The concept of string theory is explored in theoretical physics.","Theoretical physics explores the concept of string theory.",0
+"The process of urbanization involves the growth of cities.","The growth of cities is involved in the process of urbanization.",0
+"The human nervous system transmits signals between the brain and body.","Transmitting signals between the brain and body is the role of the human nervous system.",0
+"The concept of plate tectonics explains the movement of Earth's lithosphere.","Explaining the movement of Earth's lithosphere is the concept of plate tectonics.",0
+"The industrial revolution transformed manufacturing processes.","Manufacturing processes were transformed by the industrial revolution.",0
+"The concept of biodiversity conservation is essential for ecological balance.","Ecological balance relies on the essential concept of biodiversity conservation.",0
+"The process of photosynthesis is fundamental for plant growth.","Fundamental for plant growth is the process of photosynthesis.",0
+"The human skeletal system provides structure and support.","Structure and support are provided by the human skeletal system.",0
+"The concept of quantum entanglement is a phenomenon in quantum mechanics.","A phenomenon in quantum mechanics is the concept of quantum entanglement.",0
+"The process of cellular respiration generates energy for cells.","Cells generate energy through the process of cellular respiration.",0
+"The concept of artificial intelligence dates back to ancient history.","Ancient history includes the concept of artificial intelligence.",0
+"The human reproductive system is responsible for producing offspring.","Producing offspring is the responsibility of the human reproductive system.",0
+"The concept of cognitive development is studied in psychology.","Psychology studies the concept of cognitive development.",0
+"The process of fermentation is used in the production of certain foods.","Producing certain foods involves the process of fermentation.",0
+"The concept of gravity explains the attraction between objects with mass.","Attraction between objects with mass is explained by the concept of gravity.",0
+"The human circulatory system transports blood throughout the body.","Transporting blood throughout the body is the role of the human circulatory system.",0
+"The concept of artificial neural networks is integral to machine learning.","Integral to machine learning is the concept of artificial neural networks.",0
+"The process of pollination is crucial for plant reproduction.","Plant reproduction relies on the crucial process of pollination.",0
+"The concept of corporate social responsibility is important in business ethics.","Business ethics emphasizes the importance of corporate social responsibility.",0
+"The human endocrine system regulates hormone production.","Regulating hormone production is the role of the human endocrine system.",0
+"The concept of string theory is explored in theoretical physics.","Theoretical physics explores the concept of string theory.",0
+"The process of urbanization involves the growth of cities.","The growth of cities is involved in the process of urbanization.",0
+"The human nervous system transmits signals between the brain and body.","Transmitting signals between the brain and body is the role of the human nervous system.",0
+"The concept of plate tectonics explains the movement of Earth's lithosphere.","Explaining the movement of Earth's lithosphere is the concept of plate tectonics.",0
+"The industrial revolution transformed manufacturing processes.","Manufacturing processes were transformed by the industrial revolution.",0
+"The concept of biodiversity conservation is essential for ecological balance.","Ecological balance relies on the essential concept of biodiversity conservation.",0
