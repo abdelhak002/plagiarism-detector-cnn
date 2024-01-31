@@ -1,7 +1,7 @@
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import pickle
-import numpy as np  # Add this line to import NumPy
+import numpy as np
 
 def load_trained_model_and_tokenizer(model_path='model/plagiarism_detector_model.keras', tokenizer_path='model/tokenizer.pickle'):
     model = load_model(model_path)
@@ -18,7 +18,7 @@ def predict_plagiarism(model, tokenizer, source_text, suspicious_text, threshold
     source_sequence = tokenizer.texts_to_sequences([source_text_str])
     suspicious_sequence = tokenizer.texts_to_sequences([suspicious_text_str])
 
-    # Adjust the length of the sequences to 11
+    # Adjust the length of the sequences to 15
     max_length = 15
     source_padded = pad_sequences(source_sequence, maxlen=max_length, padding='post')
     suspicious_padded = pad_sequences(suspicious_sequence, maxlen=max_length, padding='post')
@@ -37,4 +37,3 @@ if __name__ == "__main__":
 
     result = predict_plagiarism(model, tokenizer, source_text, suspicious_text)
     print(result)
-
