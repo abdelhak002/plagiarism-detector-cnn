@@ -24,7 +24,7 @@ Make sure you have the following installed on your machine:
 2. **Change into the project directory:**
 
    ```bash
-   cd plagiarism-detection-project
+   cd plagiarism-detection-cnn
    ```
 
 3. **Create a virtual environment (optional but recommended):**
@@ -61,6 +61,12 @@ Make sure you have the following installed on your machine:
 
    ```python
    python model/build_model.py
+   ```
+
+7. **Testing the model:**
+
+   ```python
+   python test_model.py
    ```
 
 ## Flask Web App:
